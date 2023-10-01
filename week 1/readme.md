@@ -1,10 +1,10 @@
-Certainly! Here is the entire set of tasks in one Markdown document:
 
-```markdown
+```js
 # Array Manipulation Tasks
-
+```
+```js
 ## Task 1: Remove Duplicates from an Array
-
+```
 ### Input
 
 ```python
@@ -13,12 +13,12 @@ arr = [3, 4, 5, 2, 3, 4, 5, 6]
 
 ### Output
 
-```python
+```js
 [3, 4, 5, 2, 6]
 ```
-
+```js
 ## Task 2: Remove Duplicates from an Array using Bubble Sort for Sorting
-
+```
 ### Input
 
 ```python
@@ -30,9 +30,9 @@ arr = [3, 4, 5, 2, 3, 4, 5, 6]
 ```python
 [2, 3, 4, 5, 6]
 ```
-
+```js
 ## Task 3: Rotate the Array by k
-
+```
 ### Input
 
 ```python
@@ -58,9 +58,9 @@ k = 2
 ```python
 [6, 7, 1, 2, 4, 5]
 ```
-
+```js
 ## Task 4: Reverse Array in Sorted Order using Bubble Sort
-
+```
 ### Input
 
 ```python
@@ -72,9 +72,9 @@ arr = [3, 4, 5, 6, 1, 8]
 ```python
 [8, 6, 5, 4, 3, 1]
 ```
-
+```js
 ## Task 5: Traverse a 2D Array - Print column-wise reverse
-
+```
 ### Input
 
 ```
@@ -88,9 +88,9 @@ arr = [3, 4, 5, 6, 1, 8]
 ```
 7 4 1 8 5 2 9 6 3
 ```
-
+```js
 ## Task 6: Go in Zig-Zag
-
+```
 ![Zig-Zag Image](https://s3.amazonaws.com/hr-assets/0/1597145617-758e6f51c3-CapturedImage-11-08-202017-03-03.png)
 
 ### Output
@@ -101,9 +101,9 @@ arr = [3, 4, 5, 6, 1, 8]
 16 45 23 7
 8 9 12
 ```
-
+```js
 ## Task 7: Transpose the Matrix
-
+```
 ### Input
 
 ```
@@ -122,9 +122,9 @@ arr = [3, 4, 5, 6, 1, 8]
 0 1 2 3 4
 0 1 2 3 4
 ```
-
+```js
 ## Task 8: Rotate By 90
-
+```
 ### Input
 
 ```
@@ -142,9 +142,9 @@ arr = [3, 4, 5, 6, 1, 8]
 2 6 2 6
 1 5 1 5
 ```
-
+```js
 ## Task 9: N Traversal
-
+```
 ### Input
 
 ```
@@ -158,9 +158,9 @@ arr = [3, 4, 5, 6, 1, 8]
 ```
 7 4 1 5 8 9 6 3
 ```
-
+```js
 ## Task 10: Z Traversal
-
+```
 ![Zig-Zag Image](https://prod-oj-files.s3.ap-south-1.amazonaws.com/upload/b56cad99e7.png)
 
 ### Input
@@ -176,9 +176,9 @@ arr = [3, 4, 5, 6, 1, 8]
 ```
 1 2 3 5 7 8 9
 ```
-
+```js
 ## Task 11: Print the boundary
-
+```
 ### Input
 
 ```
@@ -192,9 +192,9 @@ arr = [3, 4, 5, 6, 1, 8]
 ```
 1 2 3 6 9 8 7 4
 ```
-
+```js
 ## Task 12: Print the elements without the border
-
+```
 ### Input
 
 ```
@@ -209,9 +209,9 @@ arr = [3, 4, 5, 6, 1, 8]
 ```
 16 17 20 21
 ```
-
+```js
 ## Task 13: Circular Traversal
-
+```
 ![Circular Traversal Image](https://prod-oj-files.s3.ap-south-1.amazonaws.com/upload/1fb03fc758.png)
 
 ### Input
@@ -227,5 +227,5 @@ arr = [3, 4, 5, 6, 1, 8]
 ```
 7 4 1 2 3 6 9 8
 ```
-```
+
 
