@@ -8,7 +8,7 @@
 ```python
 arr = [3, 4, 5, 2, 3, 4, 5, 6]
 ```
-````
+
 
 ### Output
 
@@ -73,20 +73,24 @@ arr = [3, 4, 5, 6, 1, 8]
 ```
 
 ## Task 5: Traverse a 2D Array
+- print colum wise reverse
+### Input
+
+```
+1 2 3
+4 5 6
+7 8 9
+```
 
 ### Output
-
-```
-4 3 2 1
-5 6 7 8
-12 11 10 9
-```
+7 4 1 8 5 2 9 6 3
 
 ## Task 6: Go in Zig-Zag
 
 <img src="https://s3.amazonaws.com/hr-assets/0/1597145617-758e6f51c3-CapturedImage-11-08-202017-03-03.png">
-### Output
+
 ```
+### Output
 5 4 3 2 1
 6 7 8 9
 16 45 23 7
@@ -153,8 +157,9 @@ arr = [3, 4, 5, 6, 1, 8]
 ## Task 10: Z Traversal
 
 <img src="https://prod-oj-files.s3.ap-south-1.amazonaws.com/upload/b56cad99e7.png">
-### Input
+
 ```
+### Input
 1 2 3
 4 5 6
 7 8 9
@@ -200,8 +205,9 @@ arr = [3, 4, 5, 6, 1, 8]
 ## Task 13: Circular Traversal
 
 <img src='https://prod-oj-files.s3.ap-south-1.amazonaws.com/upload/1fb03fc758.png'>
-### Input
+
 ```
+### Input
 1 2 3
 4 5 6
 7 8 9
