@@ -71,11 +71,11 @@ let arr = [7, 2, 4, 9, 3];
 
 
 
-// const swap = (arr, i, j) => {
-//   let temp = arr[i];
-//   arr[i] = arr[j];
-//   arr[j] = temp;
-// };
+const swap = (arr, i, j) => {
+  let temp = arr[i];
+  arr[i] = arr[j];
+  arr[j] = temp;
+};
 
 console.log(arr);
 // for (let i = 0; i < arr.length-1; i++) {
@@ -87,17 +87,17 @@ console.log(arr);
 // }
 // const arr = [7, 2, 4, 7, 9, 3]
 
-let i =0
-while ( i < arr.length) {
-    if(arr[i] > arr[i+1]){
-        let tmp = arr[i]
-        arr[i] = arr[i+1]
-        arr[i+1] = tmp
-        i = i === 0 ? i : i-1
-    }else{
-        i++
-    }
-}
+// let i =0
+// while ( i < arr.length) {
+//     if(arr[i] > arr[i+1]){
+//         let tmp = arr[i]
+//         arr[i] = arr[i+1]
+//         arr[i+1] = tmp
+//         i = i === 0 ? i : i-1
+//     }else{
+//         i++
+//     }
+// }
 
 
-console.log(arr);
+// console.log(arr);
